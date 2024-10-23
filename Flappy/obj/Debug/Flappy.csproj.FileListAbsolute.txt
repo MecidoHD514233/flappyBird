@@ -1,0 +1,10 @@
+C:\Users\MEZE\source\repos\Flappy\Flappy\obj\Debug\Flappy.csprojAssemblyReference.cache
+C:\Users\MEZE\source\repos\Flappy\Flappy\obj\Debug\Flappy.Form1.resources
+C:\Users\MEZE\source\repos\Flappy\Flappy\obj\Debug\Flappy.Properties.Resources.resources
+C:\Users\MEZE\source\repos\Flappy\Flappy\obj\Debug\Flappy.csproj.GenerateResource.cache
+C:\Users\MEZE\source\repos\Flappy\Flappy\obj\Debug\Flappy.csproj.CoreCompileInputs.cache
+C:\Users\MEZE\source\repos\Flappy\Flappy\bin\Debug\Flappy.exe.config
+C:\Users\MEZE\source\repos\Flappy\Flappy\bin\Debug\Flappy.exe
+C:\Users\MEZE\source\repos\Flappy\Flappy\bin\Debug\Flappy.pdb
+C:\Users\MEZE\source\repos\Flappy\Flappy\obj\Debug\Flappy.exe
+C:\Users\MEZE\source\repos\Flappy\Flappy\obj\Debug\Flappy.pdb
